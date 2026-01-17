@@ -16,7 +16,7 @@
 
 Specjalista **Linux Cloud DevOps** z doświadczeniem w administracji serwerami Debian/Ubuntu, automatyzacji Python/Bash i migracjach do chmury. Buduję niezawodną infrastrukturę: hardening, monitoring wydajności, CI/CD i zarządzanie bazami danych.
 
-📍 **Rzeszów, PL** | 📧 [g.niemczyk@op.pl](mailto:g.niemczyk@op.pl) | 💼 [GitHub](https://github.com/gniemczyk)
+📍 **Rzeszów, PL** | 📧 [g.niemczyk78@gmail.com](mailto:g.niemczyk78@gmail.com) | 💼 [GitHub](https://github.com/gniemczyk)
 
 <br>
 

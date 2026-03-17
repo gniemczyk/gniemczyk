@@ -14,9 +14,9 @@
 
 ## 👋 Cześć! Jestem Grzegorz
 
-Specjalista **Linux Cloud DevOps** z doświadczeniem w administracji serwerami Debian/Ubuntu, automatyzacji Python/Bash i migracjach do chmury. Buduję niezawodną infrastrukturę: hardening, monitoring wydajności, CI/CD i zarządzanie bazami danych.
+**Linux Cloud DevOps** – administracja serwerami Debian/Ubuntu, automatyzacja zadań (Python/Bash) oraz budowa architektury chmurowej AWS (w tym wdrażanie i zarządzanie instancjami EC2). Buduję niezawodną infrastrukturę wykorzystując podejście **Infrastructure as Code (Terraform)**, rozwijam skalowalne rozwiązania **Serverless** oraz dba o solidny monitoring, CI/CD i bezpieczeństwo.
 
-📍 **Rzeszów, PL** | 📧 [g.niemczyk78@gmail.com](mailto:g.niemczyk78@gmail.com) | 💼 [GitHub](https://github.com/gniemczyk)
+📍 **Rzeszów, PL** | 📧 [g.niemczyk78@gmail.com](mailto:g.niemczyk78@gmail.com) | 💼 [GitHub](https://github.com/gniemczyk?tab=repositories)
 
 <br>
 
@@ -27,19 +27,23 @@ Specjalista **Linux Cloud DevOps** z doświadczeniem w administracji serwerami D
 | Kategoria | Technologie |
 |-----------|-------------|
 | 🐧 **Linux Admin** | Debian, Ubuntu, Hardening, Firewall |
-| 🐍 **Automatyzacja** | Python, Bash, Ansible |
-| 🔄 **CI/CD** | Jenkins, GitHub Actions |
+| 🏗️ **IaC & Automatyzacja** | Terraform, Ansible, Python, Bash |
+| ☁️ **Cloud & Serverless**| AWS (EC2, Lambda, API Gateway, S3, DynamoDB) |
+| 🌍 **Networking & DNS** | Cloudflare, AWS Route 53 |
+| 🔄 **CI/CD** | GitHub Actions, Jenkins |
 | 🐳 **Containers** | Docker |
-| ☁️ **Cloud** | AWS |
-| 🗄️ **Bazy danych** | MySQL, PostgreSQL |
+| 🗄️ **Bazy danych** | MySQL, PostgreSQL, DynamoDB |
 | 🌐 **Web Servers** | Nginx, Apache |
 
 ![Debian](https://img.shields.io/badge/Debian-D70F64?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-DC3545?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009925?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -49,14 +53,15 @@ Specjalista **Linux Cloud DevOps** z doświadczeniem w administracji serwerami D
 
 ## 🚀 **Co oferuję?**
 
+- ☁️ **Cloud & Serverless**: Administracja instancjami EC2, projektowanie i wdrażanie architektury Serverless na AWS (m.in. Lambda, API Gateway, DynamoDB)
+- 🏗️ **Infrastructure as Code (IaC)**: Automatyzacja pełnego cyklu życia infrastruktury za pomocą Terraform (integracja AWS i Cloudflare)
 - 🐧 **Administracja Linux**: Debian/Ubuntu – instalacja, optymalizacja, hardening serwerów
 - 🐍 **Automatyzacja**: Skrypty Python/Bash do zadań powtarzalnych, Ansible do konfiguracji
-- 📊 **Monitoring & Wydajność**: Tworzenie kodu do sprawdzania zasobów CPU/RAM/Dysk, alerty wydajności
-- 🔄 **CI/CD Pipelines**: Jenkins, GitHub Actions – automatyzacja build/test/deploy
-- ☁️ **Migracje do chmury**: Przenoszenie serwerów lokalnych do AWS, zarządzanie infrastrukturą IaC
-- 🐳 **Konteneryzacja**: Docker do pakowania aplikacji, proste setupy
-- 🛡️ **Bezpieczeństwo**: Firewall (ufw/iptables), SELinux, basic security audits
-- 🗄️ **Bazy & Web**: MySQL/PostgreSQL tuning, Nginx/Apache konfiguracja pod load
+- 📊 **Monitoring & Observability**: Konfiguracja CloudWatch, systemy powiadamiania (SNS) i monitorowania zdrowia usług
+- 🔄 **CI/CD Pipelines**: Automatyzacja CI/CD (build/test/deploy) wykorzystując GitHub Actions i Jenkins
+- 🛡️ **Bezpieczeństwo**: Zabezpieczanie API, koncepcja IAM Least Privilege, Firewall, zabezpieczenia z pomocą Cloudflare
+- 🐳 **Konteneryzacja**: Docker do pakowania aplikacji i wdrażania prostych środowisk
+- 🗄️ **Bazy & Web**: MySQL/PostgreSQL tuning, NoSQL (DynamoDB), Nginx/Apache konfiguracja pod load
 
 <br>
 

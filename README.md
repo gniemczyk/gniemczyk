@@ -14,13 +14,13 @@
 
 ## 👋 Cześć! Jestem Grzegorz
 
-**Linux Cloud DevOps** – administracja serwerami Debian/Ubuntu, automatyzacja zadań (Python/Bash) oraz budowa architektury chmurowej AWS (w tym wdrażanie i zarządzanie instancjami EC2). Buduję niezawodną infrastrukturę wykorzystując podejście **Infrastructure as Code (Terraform)**, rozwijam skalowalne rozwiązania **Serverless** oraz dba o solidny monitoring, CI/CD i bezpieczeństwo.
+**Linux Cloud DevOps** – administracja serwerami Debian/Ubuntu, automatyzacja zadań (Python/Bash) oraz budowa architektury chmurowej AWS (w tym wdrażanie i zarządzanie instancjami EC2). Buduję niezawodną infrastrukturę, wykorzystując podejście **Infrastructure as Code (Terraform)**, rozwijam skalowalne rozwiązania **Serverless** oraz dbam o solidny monitoring, CI/CD i bezpieczeństwo.
 
 📍 **Rzeszów, PL** | 📧 [g.niemczyk78@gmail.com](mailto:g.niemczyk78@gmail.com) | 💼 [GitHub](https://github.com/gniemczyk?tab=repositories)
 
 <br>
 
-## 🛠️ **Stack Technologiczny**
+## 🛠️ Stack technologiczny
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 |-----------|-------------|
 | 🐧 **Linux Admin** | Debian, Ubuntu, Hardening, Firewall |
 | 🏗️ **IaC & Automatyzacja** | Terraform, Ansible, Python, Bash |
-| ☁️ **Cloud & Serverless**| AWS (EC2, Lambda, API Gateway, S3, DynamoDB) |
+| ☁️ **Cloud & Serverless** | AWS (EC2, Lambda, API Gateway, S3, DynamoDB) |
 | 🌍 **Networking & DNS** | Cloudflare, AWS Route 53 |
 | 🔄 **CI/CD** | GitHub Actions, Jenkins |
 | 🐳 **Containers** | Docker |
@@ -51,17 +51,23 @@
 
 <br>
 
-## 🚀 **Co oferuję?**
+## 🚀 Co oferuję?
 
 - ☁️ **Cloud & Serverless**: Administracja instancjami EC2, projektowanie i wdrażanie architektury Serverless na AWS (m.in. Lambda, API Gateway, DynamoDB)
 - 🏗️ **Infrastructure as Code (IaC)**: Automatyzacja pełnego cyklu życia infrastruktury za pomocą Terraform (integracja AWS i Cloudflare)
 - 🐧 **Administracja Linux**: Debian/Ubuntu – instalacja, optymalizacja, hardening serwerów
 - 🐍 **Automatyzacja**: Skrypty Python/Bash do zadań powtarzalnych, Ansible do konfiguracji
 - 📊 **Monitoring & Observability**: Konfiguracja CloudWatch, systemy powiadamiania (SNS) i monitorowania zdrowia usług
-- 🔄 **CI/CD Pipelines**: Automatyzacja CI/CD (build/test/deploy) wykorzystując GitHub Actions i Jenkins
-- 🛡️ **Bezpieczeństwo**: Zabezpieczanie API, koncepcja IAM Least Privilege, Firewall, zabezpieczenia z pomocą Cloudflare
+- 🔄 **CI/CD Pipelines**: Automatyzacja CI/CD (build/test/deploy) przy użyciu GitHub Actions i Jenkins
+- 🛡️ **Bezpieczeństwo**: Zabezpieczanie API, koncepcja IAM least privilege, firewall, zabezpieczenia za pomocą Cloudflare
 - 🐳 **Konteneryzacja**: Docker do pakowania aplikacji i wdrażania prostych środowisk
-- 🗄️ **Bazy & Web**: MySQL/PostgreSQL tuning, NoSQL (DynamoDB), Nginx/Apache konfiguracja pod load
+- 🗄️ **Bazy & Web**: tuning MySQL/PostgreSQL, NoSQL (DynamoDB), konfiguracja Nginx/Apache pod obciążeniem
+
+<br>
+
+### W skrócie
+
+`linux` `devops` `aws` `terraform` `ansible` `docker` `iac` `serverless` `ec2` `lambda` `s3` `dynamodb` `cloudwatch` `route53` `cloudflare` `github-actions` `jenkins` `ci-cd` `nginx` `mysql` `postgresql` `python` `bash` `debian` `ubuntu`
 
 <br>
 
